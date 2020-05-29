@@ -17,8 +17,10 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1>小八宝典</h1>
-    <p>Resize this responsive page!</p>
+    <h1>林小BA</h1>
+    <a href="html/JavaBasic.html"> Java初级</a>
+    <a href="html/JavaAdanvanced.html">Java中级</a>
+    <a href="html/JavaHighLevel.html">Java高级</a>
   </div>
 </div>
 
